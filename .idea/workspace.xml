@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a9671a9-f548-48fc-aff9-bdeaff2757d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ch03_polls.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ch03_polls.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/polls.py" beforeDir="false" />
-    </list>
+    <list default="true" id="7a9671a9-f548-48fc-aff9-bdeaff2757d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +80,7 @@
       <workItem from="1589005839823" duration="901000" />
       <workItem from="1589007212454" duration="18000" />
       <workItem from="1589007233969" duration="2000" />
-      <workItem from="1589015578068" duration="40000" />
+      <workItem from="1589015578068" duration="309000" />
     </task>
     <servers />
   </component>
