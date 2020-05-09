@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a9671a9-f548-48fc-aff9-bdeaff2757d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ch03_polls.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ch03_polls.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/polls.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookmark" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -75,7 +81,12 @@
       <workItem from="1588740882199" duration="13000" />
       <workItem from="1588740898405" duration="8155000" />
       <workItem from="1588749360648" duration="9606000" />
-      <workItem from="1588778239218" duration="2384000" />
+      <workItem from="1588778239218" duration="8430000" />
+      <workItem from="1589005595887" duration="201000" />
+      <workItem from="1589005839823" duration="901000" />
+      <workItem from="1589007212454" duration="18000" />
+      <workItem from="1589007233969" duration="2000" />
+      <workItem from="1589015578068" duration="40000" />
     </task>
     <servers />
   </component>
@@ -83,14 +94,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1028" y="281" key="FileChooserDialogImpl" timestamp="1588751796728">
+    <state x="1028" y="281" key="FileChooserDialogImpl" timestamp="1589006924558">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="1028" y="281" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1588751796728" />
-    <state x="752" y="168" key="SettingsEditor" timestamp="1588741312793">
+    <state x="1028" y="281" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1589006924558" />
+    <state x="752" y="168" key="SettingsEditor" timestamp="1589007226865">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="752" y="168" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1588741312793" />
+    <state x="752" y="168" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1589007226865" />
     <state x="633" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1588778242923">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
